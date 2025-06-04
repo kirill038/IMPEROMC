@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "IMPEROMC - v1.0.0"
+title = "IMPEROMC - v1.0.1"
 
 [ejs.landing]
 mediaGitHubURL = "#"
